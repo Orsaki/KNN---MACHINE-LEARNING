@@ -9,7 +9,7 @@ Proyecto de clasificación supervisada con K-Nearest Neighbors (KNN) aplicado al
 Para evitar fuga de datos (data leakage), la partición de prueba (Test 20%) se aisló desde el inicio. Todo el proceso de imputación, escalado y balanceo se ejecutó exclusivamente dentro de cada iteración de validación cruzada:
 
 <div align="center">
-  <img src="pipeline_flujo.png" alt="Pipeline de Modelado KNN" width="800">
+  <img src="pipeline_flujo.jpg" alt="Pipeline de Modelado KNN" width="800">
 </div>
 
 ---
